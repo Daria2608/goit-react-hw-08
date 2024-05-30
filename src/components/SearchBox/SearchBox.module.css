@@ -1,6 +1,7 @@
 .text {
-    color: black;
-    margin-bottom: 0;
+            color: #f70647;
+            font-size: 20px;   
+    margin-bottom: 10;
 }
 
 .input {
@@ -9,4 +10,7 @@
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 5px;
+    border: 5px solid #f70647;
+    font-size: 20px;
+    padding-left: 10px;
 }

@@ -1,7 +1,7 @@
 .number {
     margin-top: 0;
     margin-bottom: 0px;
-    color: black;
+    color: white;
     display: flex;
     align-items: center;
     gap: 8px;
@@ -10,7 +10,7 @@
 .name {
     margin-top: 0;
         margin-bottom: 0px;
-        color: black;
+        color: white;
         display: flex;
         align-items: center;
         gap: 8px;
@@ -23,5 +23,6 @@
 }
 
 .button {
-    border: 1px solid gray;
+         background-color: #f70647;
+            color: white;
 }

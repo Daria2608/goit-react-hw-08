@@ -13,7 +13,7 @@ export default function UserMenu() {
     }
 
     return <div className={css.container}>
-        <p>Welcome {user.email} !</p>
+        <p className={css.text}>Welcome {user.email} !</p>
         <button className={css.button} type="button" onClick={handlelogout}>Log out</button>
     </div>
 } 
